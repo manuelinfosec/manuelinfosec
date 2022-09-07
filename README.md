@@ -34,5 +34,5 @@
 <!-- <p><a href="https://www.buymeacoffee.com/manuelinfosec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manuelinfosec" /></a></p><br><br><br> -->
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelinfosec&show_icons=true&locale=en&layout=compact" alt="manuelinfosec" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelinfose&show_icons=true&locale=en&layout=compact" alt="manuelinfosec" /></p>
 
