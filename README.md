@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel </h1>
+<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1>
 <h3 align="center">I'm a computer science student exploring a passion in building, breaking and fixing software.</h3>
 
 <p align="center"> <a href="https://twitter.com/manuelinfosec" target="blank"><img src="https://img.shields.io/twitter/follow/manuelinfosec?logo=twitter&style=for-the-badge" alt="manuelinfosec" /></a> </p>
@@ -13,7 +13,7 @@
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
 
-- ⚡ Fun fact: **I love creating content.**.
+- ⚡ Fun fact: **I love creating content.**
 
 
 <h3 align="left">Connect with me:</h3>
