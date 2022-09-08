@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Salesforce/CRM** and **Industrial Design**.
 
-- 👨‍💻 All of my projects are available at [https://manuelinfosec.me (Coming Soon)]().
+- 👨‍💻 All of my projects are available at [https://manuelinfosec.me](https//github.com/manuelinfosec/#) (Coming Soon).
 
 - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com).
 
