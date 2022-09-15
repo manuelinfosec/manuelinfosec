@@ -4,9 +4,9 @@
 <p align="center"> <a href="https://twitter.com/manuelinfosec" target="blank"><img src="https://img.shields.io/twitter/follow/manuelinfosec?logo=twitter&style=for-the-badge" alt="manuelinfosec" /></a> <a href="https://www.linkedin.com/in/manuelinfosec/" target="blank"><img src="https://img.shields.io/badge/-connect on linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelinfosec/" alt="connect on linkedin" /></a>
 </p>
 
-- 🌱 I’m currently learning **Salesforce/CRM** and **Industrial Design**.
+- 🌱 I’m currently learning **Multivariate Statistics**.
 
-- 👨‍💻 All of my projects are available at [https://manuelinfosec.me](https//github.com/manuelinfosec/#) (Coming Soon).
+- 👨‍💻 All of my projects are available at my [portfolio](https://www.datascienceportfol.io/manuelinfosec) (Coming Soon).
 
 - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com).
 
