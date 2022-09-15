@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Multivariate Statistics**.
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://www.datascienceportfol.io/manuelinfosec) (Coming Soon).
+- 👨‍💻 All of my projects are available at my [portfolio](https://www.datascienceportfol.io/manuelinfosec).
 
 - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com).
 
