@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com).
 
-- 💬 Ask me about **Python, Data, Cloud Computing**.
+- 💬 Ask me about **Cryptography, Data, Cloud Computing**.
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
 
