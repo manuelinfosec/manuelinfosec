@@ -15,7 +15,7 @@
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
 
-- ⚡ Fun fact: **I love creating content.**
+- ⚡ Fun fact: I love **creating content** and **producing music**
 
 
 <h3 align="left">Connect with me:</h3>
