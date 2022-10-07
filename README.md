@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1>
+<!---<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1> --->
 
 <h3 align="center">I'm a computer science student exploring a passion in building, breaking and fixing software.<br><br>Data Analysis📊, Machine Learning🤖, Web3⛓, Server-Side🌐, Linux🐧, AWS☁, Buffer🗣.</h3><br>
 
