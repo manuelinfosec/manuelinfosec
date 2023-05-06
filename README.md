@@ -1,6 +1,6 @@
 <!---<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1> --->
 
-<h3 align="center">I'm a computer science student exploring a passion in building, breaking and fixing software.<br><br>Data Analysis📊, Machine Learning🤖, Web3⛓, Server-Side🌐, Linux🐧, AWS☁, Buffer🗣.</h3><br>
+<h3 align="center">I'm a computer science advocate exploring a passion in building, breaking and fixing software.<br><br>Data Analysis📊, Machine Learning🤖, Web3⛓, Server-Side🌐, Linux🐧, AWS☁, Buffer🗣.</h3><br>
 
 <p align="center"> <a href="https://twitter.com/manuelinfosec" target="blank"><img src="https://img.shields.io/twitter/follow/manuelinfosec?logo=twitter&style=for-the-badge" alt="manuelinfosec" /></a> <a href="https://www.linkedin.com/in/manuelinfosec/" target="blank"><img src="https://img.shields.io/badge/-connect on linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelinfosec/" alt="connect on linkedin" /></a>
 </p>
