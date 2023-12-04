@@ -1,6 +1,6 @@
 <!---<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1> --->
 
-<h3 align="center">Engineering data, intelligent and distributed applications in the cloud<br><br>Prior Experience in Data Analysis, Server-side, Machine Learning, Algo/Quant Trading, Web3, DevOps, Linux, AWS, Buffer.</h3><br>
+<h3 align="center">Engineering data, intelligent and distributed applications in the cloud<br><br>Prior Experience in Data Analysis, Server-side, Machine Learning, Algo/Quant Trading, Web3, DevOps, Linux, AWS, Marketing.</h3><br>
 
 <p align="center"> <a href="https://twitter.com/manuelinfosec" target="blank"><img src="https://img.shields.io/twitter/follow/manuelinfosec?logo=twitter&style=for-the-badge" alt="manuelinfosec" /></a> <a href="https://www.linkedin.com/in/manuelinfosec/" target="blank"><img src="https://img.shields.io/badge/-connect on linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelinfosec/" alt="connect on linkedin" /></a>
 </p>
