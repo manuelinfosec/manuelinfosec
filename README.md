@@ -5,8 +5,7 @@
 <p align="center"> <a href="https://twitter.com/manuelinfosec" target="blank"><img src="https://img.shields.io/twitter/follow/manuelinfosec?logo=twitter&style=for-the-badge" alt="manuelinfosec" /></a> <a href="https://www.linkedin.com/in/manuelinfosec/" target="blank"><img src="https://img.shields.io/badge/-connect on linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelinfosec/" alt="connect on linkedin" /></a>
 </p>
 
-- 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com).
-
+<!--- - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com). -->
 - 💬 Ask me about **Cryptography, Data, Cloud and Distributed Computing**.
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
