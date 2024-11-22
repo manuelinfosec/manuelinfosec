@@ -10,7 +10,7 @@
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
 
-- ⚡ Fun fact: I enjoy **solving problems**.
+- ⚡ Fun fact: I enjoy **solving problems** and playing strategy games.
 
 
 <h3 align="left">Connect with me:</h3>
