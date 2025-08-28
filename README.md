@@ -6,7 +6,7 @@
 </p>
 
 <!--- - 📝 I regularly write articles on [Medium](https://manuelinfosec.medium.com). -->
-- 💬 Ask me about **Cryptography, Data, Cloud and Distributed Computing**.
+- 💬 Ask me about **cryptography**, **low-level systems programming** and **distributed computing**.
 
 - 📫 Reach me at [manuelinfosec[at]gmail.com](mailto:manuelinfosec@gmail.com).
 
