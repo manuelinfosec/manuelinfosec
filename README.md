@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel 🇳🇬</h1>
+<h1 align="center">Hi 👋, I'm Manuel </h1>
 
 <h3 align="center">Engineering data, intelligent and distributed applications in the cloud<br><br>Prior Experience in Backend Development, Platform Engineering, Data Analysis, Machine Learning, Algo/Quant Trading, Web3 and Marketing.</h3><br>
 
